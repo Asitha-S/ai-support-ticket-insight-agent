@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2025-11-25",
+    "summary": "Top category: payment. Top keywords: refund, payment, login, keeps, order, delivery.",
+    "category_counts": {
+      "login": 8,
+      "other": 10,
+      "payment": 11,
+      "refund": 11,
+      "delivery": 10
+    },
+    "sentiment_counts": {
+      "neutral": 35,
+      "frustrated": 14,
+      "angry": 1
+    },
+    "recommended_actions": [
+      "Investigate payment issues first",
+      "Prioritize tickets with sentiment 'angry'",
+      "Monitor keywords: refund, payment, login, keeps, order, delivery"
+    ]
+  }
+]

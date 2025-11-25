@@ -1,0 +1,51 @@
+id,text
+1,I can’t login into my account since the app keeps crashing on startup.
+2,Login page says invalid credentials even though my password is correct.
+3,I was logged out automatically and now the login button does nothing.
+4,Cannot sign in after the latest update. Screen freezes on loading.
+5,Fingerprint login not working. Keeps asking for manual password.
+6,My account shows an error when trying to authenticate.
+7,I was charged twice for the same transaction. Kindly refund the extra charge.
+8,Payment gateway stuck at processing. Money deducted but no confirmation.
+9,Card payment keeps failing even though my card works on other apps.
+10,Why is the payment page not loading at all today?
+11,Added a new card but the system doesn't recognize it during checkout.
+12,The UPI payment took money but order did not get placed.
+13,I requested a refund last week and still haven’t received it.
+14,Refund processed the wrong amount. Need correction immediately.
+15,Refund request keeps getting rejected without any explanation.
+16,Money was deducted but my refund never came through.
+17,Please help. Refund stuck since 10 days and customer support is not responding.
+18,I initiated a return but refund hasn’t started.
+19,Package hasn’t arrived yet even though tracking shows out for delivery.
+20,Delivery guy marked the order delivered but I didn’t receive anything.
+21,My courier is delayed again. No update from logistics.
+22,Tracking number not updating for the last 3 days.
+23,Delivery attempt failed even though I was home.
+24,Wrong item delivered. Need replacement.
+25,App keeps freezing when I try to browse items.
+26,Can’t update my address in the profile settings.
+27,Search bar not returning correct results.
+28,App UI becomes unresponsive randomly.
+29,Notifications not working for order updates.
+30,Live chat support keeps disconnecting.
+31,Login requires OTP but I am not receiving the OTP at all.
+32,Order cancelled automatically but payment was deducted.
+33,Delivery partner called once and left immediately.
+34,Refund initiated but stuck in processing for too long.
+35,Payment error: says try again later every single time.
+36,I need help updating my billing address.
+37,Order shipped to the wrong city. Please fix this urgently.
+38,My refund was approved but still not visible in my account.
+39,App continuously crashes when navigating to cart.
+40,Delivery agent didn’t call before arriving.
+41,Payment stuck on loading screen after clicking pay now.
+42,Login via Google not working anymore.
+43,Tracking shows delivered but no parcel at my home.
+44,Refund initiated twice but neither processed.
+45,Live support agent disconnected abruptly.
+46,Payment was successful but invoice not generated.
+47,Delivery window passed but still no update.
+48,I am unable to reset my password. Reset link doesn’t open.
+49,Refund team asked for bank details again after already submitting.
+50,Order delivered to my neighbour without informing me.
