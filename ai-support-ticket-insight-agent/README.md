@@ -91,21 +91,6 @@ Report Agent → memory.json → Trend Comparison
 ---
 
 
-```mermaid
-flowchart TD
-    A[Support Tickets (CSV / batch)] --> B1[Classifier Agent]
-    A --> B2[Sentiment Agent]
-
-    B1 --> C[Enriched Tickets (labels + sentiment)]
-    B2 --> C
-
-    C --> D[Insight Agent<br/>- Top categories<br/>- Top keywords<br/>- Sentiment counts]
-    D --> E[Report Agent<br/>- Weekly summary<br/>- Recommended actions]
-
-    E --> F[(memory.json)]
-    F --> G[Trend Comparison<br/>Week-over-week changes]
-
-
 ## Demo Instructions  
 1. Add your Gemini API key under Kaggle Secrets as `GOOGLE_API_KEY`.  
 2. Run all cells in order.  
@@ -144,5 +129,6 @@ If I had more time, I would:
 
 ## Summary  
 This project demonstrates a complete multi-agent AI system using Gemini that can automate customer support ticket analysis, generate insights, and track trends across weeks. It showcases parallel and sequential agents, memory, observability, and practical industry-aligned functionality in a clean, modular design.
+
 
 
